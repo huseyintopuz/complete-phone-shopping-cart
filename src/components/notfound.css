@@ -1,0 +1,23 @@
+.notfound {
+    top: 30%;
+    left: 25%;
+    position: absolute;
+}
+.notfound h1 {
+    padding-bottom: 1rem;
+}
+.notfound p {
+    padding-bottom: 1rem;
+    font-size: 1.5rem;
+}
+.back {
+    display: flex;
+}
+.back-icon {
+    font-size: 2em;
+    color: blue;
+    margin-right: 1rem;
+}
+.back h2 {
+    color: blue;
+}
